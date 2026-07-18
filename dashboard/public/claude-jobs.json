@@ -1,11 +1,10 @@
 {
-  "lastUpdated": "2026-07-17T05:33:13.661503+00:00",
-  "totalJobs": 104,
+  "lastUpdated": "2026-07-18T05:17:07.518123+00:00",
+  "totalJobs": 101,
   "sources": [
     "Anthropic",
     "HackerNews",
-    "RemoteOK",
-    "WeWorkRemotely"
+    "RemoteOK"
   ],
   "jobs": [
     {
@@ -666,51 +665,6 @@
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "wwr-remote-va-web-developer-ai-specialist",
-      "company": "Remote VA",
-      "position": "Web Developer & AI Specialist",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Central Luzon, Philippines URL: http://remoteva.ph Description Job Description: Web Developer & AI Specialist Position Overview We are seeking a highly skilled Web Developer & AI Specialist to design, develop, and maintain advanced web applications while integrating artificial...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-ai-specialist",
-      "postedAt": "2026-06-18T02:19:12+00:00",
-      "tags": [
-        "Next.js",
-        "TypeScript",
-        "JavaScript",
-        "PostgreSQL",
-        "Docker",
-        "Claude Code"
-      ],
-      "companyIcon": ""
-    },
-    {
-      "id": "wwr-mrioa-web-developer-remote",
-      "company": "MRIoA",
-      "position": "Web Developer (Remote)",
-      "location": "Remote",
-      "remote": true,
-      "salary": "",
-      "description": "Headquarters: Salt Lake City, Utah, United States URL: http://mrioa.com Who We Are - Motivated by Purpose. Powered by Clinical Expertise. Founded in 1983, we’re a clinically driven, tech-enabled utilization management company offering expert clinical reviews, regulatory guidance, and actionable...",
-      "applyUrl": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
-      "source": "WeWorkRemotely",
-      "sourceUrl": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
-      "postedAt": "2026-06-18T02:19:12+00:00",
-      "tags": [
-        "React",
-        "JavaScript",
-        "Python",
-        "Go",
-        "Node.js",
-        "Claude Code",
-        "Django"
-      ],
-      "companyIcon": ""
     },
     {
       "id": "anth-5255912008",
@@ -2108,28 +2062,6 @@
       "source": "Anthropic",
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
       "postedAt": "2026-01-21T12:42:00-05:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-4502508008",
-      "company": "Anthropic",
-      "position": "Staff+ Application Security Engineer",
-      "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York C",
-      "remote": true,
-      "salary": "",
-      "description": "Anthropic's Application Security team secures the systems that build, serve, and increasingly are Claude. The attack surface is unlike most AppSec work: multi-agent orchestration, sandboxed code execution, agents holding delegated credentials, untrusted tool output crossing trust boundaries —...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
-      "postedAt": "2025-01-22T16:55:47-05:00",
       "tags": [
         "TypeScript",
         "Python",
