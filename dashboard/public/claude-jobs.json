@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T03:41:46.734696+00:00",
-  "totalJobs": 108,
+  "lastUpdated": "2026-08-18T03:37:22.393941+00:00",
+  "totalJobs": 106,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -261,26 +261,6 @@
         "Go"
       ],
       "companyIcon": ""
-    },
-    {
-      "id": "anth-5383660008",
-      "company": "Anthropic",
-      "position": "Product Designer, People Products",
-      "location": "San Francisco, CA | New York City, NY (Remote)",
-      "remote": true,
-      "salary": "",
-      "description": "The People Products team exists to support Anthropic’s mission by defining the blueprint for AI at work. We help hire the best person in the world for every job, ensure manager effectiveness, ramp new hires successfully, and ensure that we apply first principles thinking in how we shape Anthropic’s...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5383660008",
-      "postedAt": "2026-08-11T13:04:10-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5383596008",
@@ -1984,27 +1964,6 @@
         "AWS",
         "Claude Code",
         "Rails",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5140405008",
-      "company": "Anthropic",
-      "position": "Applied AI Architect, Government Technology",
-      "location": "Washington, DC",
-      "remote": false,
-      "salary": "",
-      "description": "As an Applied AI team member at Anthropic, you will be a Pre-Sales architect focused on becoming a trusted technical advisor helping systems integrators, startups, and other GovTech companies understand the value of Claude and paint the vision on how they can successfully integrate and deploy...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5140405008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5140405008",
-      "postedAt": "2026-03-05T14:59:18-05:00",
-      "tags": [
-        "Python",
-        "Rust",
-        "AWS",
-        "Claude Code",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
